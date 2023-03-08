@@ -1,0 +1,34 @@
+Basic pseudocode:
+draw a line that contains     ( +===+===+ )
+draw a new line that contains ( |   |   | )
+draw a new line that contains ( |   |   | )
+draw a new line that contains ( |   |   | )
+draw a line that contains     ( +===+===+ )
+draw a new line that contains ( |   |   | )
+draw a new line that contains ( |   |   | )
+draw a new line that contains ( |   |   | )
+draw a line that contains     ( +===+===+ )
+
+
+More in depth pseudocode:
+Create method that prints ( +===+===+ ) call it plusEqualsLine
+Create method that prints ( |   |   | ) call it pipesLine
+print plusEqualsLine
+print pipesLine
+print pipesLine
+print pipesLine
+print plusEqualsLine
+print pipesLine
+print pipesLine
+print pipesLine
+print plusEqualsLine
+
+Loops pseudocode:
+
+for (twice looped write) {
+    write on its own line ( +===+===+ )
+        for (three loops) {
+        write  ( |   |   | )
+        }
+    write on its own line ( +===+===+ )
+}

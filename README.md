@@ -7,9 +7,9 @@ you will find the answers are in the corresponding file.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-                                **********************
+                                ***********************
                                 *java-intro Exercises:*
-                                **********************
+                                ***********************
 
 
 1. Stewie: Write a complete Java program called Stewie that prints the following output:
@@ -218,3 +218,9 @@ you will find the answers are in the corresponding file.
             see you later!
             I hope, you think,
             I'm a lover, not a hater!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+                                ***********************
+                                *java-intro Exercises:*
+                                ***********************
